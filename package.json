@@ -26,10 +26,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mikasaukyou/node-multi-hashing.git"
+        "url": "https://github.com/mikasaukyou/node-multi-hashing-yescrypt-0.5.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/mikasaukyou/node-multi-hashing.git#add-YespowerR",
+        "multi-hashing": "https://github.com/mikasaukyou/node-multi-hashing-yescrypt-0.5.git",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
