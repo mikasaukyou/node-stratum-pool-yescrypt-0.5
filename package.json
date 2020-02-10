@@ -26,10 +26,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mikasaukyou/node-stratum-pool-yescrypt-0.5.git"
+        "url": "https://github.com/mikasaukyou/node-multi-hashing.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/mikasaukyou/node-stratum-pool-yescrypt-0.5.git",
+        "multi-hashing": "https://github.com/mikasaukyou/node-multi-hashing.git#add-YespowerR",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
